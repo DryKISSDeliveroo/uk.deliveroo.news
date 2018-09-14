@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-launches-world-s-first-virtual-food-market.html</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-partners-with-yorkshire-tea-to-introduce-deliverbrew.html</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -560,6 +566,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/page/4/</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/riders/page/2.html</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
