@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/you-are-gold.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/readings-foodie-scene-expands-to-suburbs-with-editions.html</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,7 +241,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/deliveroo-for-business.html</loc>
+    <loc>https://uk.deliveroo.news/tag/gold-card.html</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -254,6 +260,18 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/business.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/stormzy.html</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/deliveroo-for-business.html</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
