@@ -127,6 +127,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/public-first.html</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-partners-with-leeds-united-fc.html</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,6 +272,24 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/burger.html</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/thanksgiving.html</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/america.html</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
