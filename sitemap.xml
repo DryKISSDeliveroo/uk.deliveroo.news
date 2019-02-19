@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-festival.html</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-launches-park-delivery.html</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
