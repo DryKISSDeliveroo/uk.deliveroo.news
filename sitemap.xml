@@ -91,12 +91,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-gender-pay-gap-2018.html</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/news/bohemian-wrapsody.html</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,12 +344,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/about/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/gender-pay.html</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -854,12 +842,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/riders/page/2.html</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/archive/2019/page/2.html</loc>
     <lastmod>2019-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
