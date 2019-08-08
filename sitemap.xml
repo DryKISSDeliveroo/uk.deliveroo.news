@@ -427,6 +427,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/food-procurement-service.html</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/5gs-for-five-guys.html</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
