@@ -355,6 +355,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-reveals-food-trends-for-2020.html</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/first-aid-uk.html</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,6 +524,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/about/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/foodtrends.html</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
