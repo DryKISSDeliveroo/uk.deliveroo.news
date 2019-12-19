@@ -175,6 +175,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/virtual-brands.html</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/spreading-the-deloveroo.html</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -560,6 +566,24 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/virtual-brands.html</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/restaurants.html</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/online.html</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1022,12 +1046,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/gold-card.html</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/restaurants.html</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
