@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-ride-to-fine.html</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/cinema-food-gets-an-upgrade-with-deliveroo.html</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,6 +74,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/news/amazon-leads-series-g.html</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-and-kelis-milkshakes.html</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
