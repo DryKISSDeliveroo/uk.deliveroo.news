@@ -481,6 +481,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-supports-passove-seder.html</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-6thbirthday.html</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1490,6 +1496,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/riders/page/2.html</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/archive/2020/page/2.html</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
