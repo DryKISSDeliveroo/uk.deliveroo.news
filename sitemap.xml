@@ -325,12 +325,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-visa-small-restaurant-partners.html</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-taco-bell.html</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1562,12 +1556,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/deliveroo/page/4.html</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/restaurants/page/2.html</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
