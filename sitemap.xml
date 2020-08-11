@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-restaurants-safety.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/amazon-leads-series-g.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -439,6 +445,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-customers-groceries.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/west-mids-cycle-safety.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -488,6 +500,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/news/leeds-first-cocktail-delivery-service.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-restaurants-safety.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -686,6 +704,18 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/customers.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/groceries.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1633,6 +1663,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/archive/2020/page/3.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/archive/2019/page/2.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1735,6 +1771,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/page/12.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1790,6 +1832,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/deliveroo/page/11.html</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/deliveroo/page/12.html</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
