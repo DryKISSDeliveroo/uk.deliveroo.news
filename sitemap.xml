@@ -217,6 +217,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-waitrose-expansion-2020.html</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/spreading-the-deloveroo.html</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -745,6 +751,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/waitrose.html</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/groceries.html</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/restaurant-awards.html</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -781,12 +799,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/waitrose.html</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/tag/adidas.html</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -794,12 +806,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/customers.html</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/groceries.html</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
