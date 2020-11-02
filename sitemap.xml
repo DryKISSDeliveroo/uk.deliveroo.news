@@ -769,6 +769,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/co-op.html</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/pret.html</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/gift-of-kit.html</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -794,18 +806,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/restaurant-awards.html</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/co-op.html</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/pret.html</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
