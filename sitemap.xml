@@ -547,6 +547,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-nhs-free-meals-november.html</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/leeds-first-cocktail-delivery-service.html</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
