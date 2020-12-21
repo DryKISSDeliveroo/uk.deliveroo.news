@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-local-restaurants-tips.html</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/new-technology-will-help-uk-restaurants-produce-more-meals.html</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -793,6 +799,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/restaurants.html</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/tips.html</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/clodagh-mckenna.html</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -902,12 +920,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/beach-clean.html</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/restaurants.html</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
