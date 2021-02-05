@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-nutella-chicken-massala.html</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-bakeaway-britain.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -872,6 +878,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/plus.html</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/nutella.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1982,6 +1994,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/riders/page/2.html</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/archive/2021/page/2.html</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
