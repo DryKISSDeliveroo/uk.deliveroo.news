@@ -895,18 +895,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/growth.html</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/funding.html</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/tag/london.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -974,6 +962,18 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/restaurants.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/growth.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/funding.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
