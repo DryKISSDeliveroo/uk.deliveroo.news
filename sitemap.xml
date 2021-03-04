@@ -199,6 +199,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-cakeaway-roolette.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-signature-restaurant-partners.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -913,6 +919,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/cake.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/birthday.html</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/restaurant.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1363,12 +1381,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/cake.html</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/tag/exclusive.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1460,12 +1472,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/life.html</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/birthday.html</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
