@@ -37,12 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-communities-riders.html</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-big-ptich-2019.html</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -877,6 +871,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-communities-investment.html</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/admin/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -913,7 +913,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/riders.html</loc>
+    <loc>https://uk.deliveroo.news/tag/investment.html</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1243,12 +1243,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/investment.html</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/tag/tech-jobs.html</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1436,6 +1430,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/meat-free.html</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/riders.html</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2059,13 +2059,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/riders/page/2.html</loc>
+    <loc>https://uk.deliveroo.news/tag/restaurants/page/2.html</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/restaurants/page/2.html</loc>
+    <loc>https://uk.deliveroo.news/tag/riders/page/2.html</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
