@@ -853,12 +853,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-manchester-6th-birthday.html</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-cheltenham.html</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1057,24 +1051,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/tag/manchester.html</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/birthday.html</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/6p.html</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/tag/ramadan.html</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1184,6 +1160,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/cake.html</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/birthday.html</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1808,6 +1790,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/missing-people.html</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/manchester.html</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
