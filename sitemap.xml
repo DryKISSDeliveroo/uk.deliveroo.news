@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-bristol-editions-launch.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/public-first.html</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -494,6 +500,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-visa-small-restaurant-partners.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-very-hungry-caterpillar.html</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1093,6 +1105,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/very-hungry-caterpillar.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/world-literacy-day.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/bristol.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/editions.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/launch.html</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/international-bacon-day.html</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1184,12 +1226,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/oowee-vegan.html</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/launch.html</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2186,12 +2222,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/summer.html</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/editions.html</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
