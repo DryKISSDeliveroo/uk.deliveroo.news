@@ -433,6 +433,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-growth-trading-update.html</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/6th-birthday-deliveroo.html</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1189,6 +1195,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/growth.html</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/trading.html</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/editions.html</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1406,12 +1424,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/birthday.html</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/growth.html</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2588,6 +2600,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/pizza.html</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/archive/2022.html</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
