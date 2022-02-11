@@ -13,12 +13,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-results-growth-2021.html</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-bakeaway-britain.html</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1472,12 +1466,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/birthday.html</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/results.html</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
