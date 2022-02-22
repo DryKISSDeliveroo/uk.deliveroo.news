@@ -697,12 +697,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-share-of-stomach-2022.html</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://uk.deliveroo.news/news/lame-lunch-amnesty.html</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -842,12 +836,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-restaurants-safety.html</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-share-of-stomach-2022.html</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1268,24 +1256,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/married-at-first-bite.html</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/restaurant.html</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/report.html</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/share-of-stomach-2022.html</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1838,6 +1808,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/cake.html</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/restaurant.html</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
