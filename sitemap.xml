@@ -307,6 +307,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-mothers-day-2022.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-to-add-thousands-of-restaurants-to-platform.html</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -745,6 +751,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-national-cereal-day.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-is-to-make-plastic-cutlery-an-opt-in-for-all-uk-customers-which-will-help-dramatically-reduce-wasted-plastic-cutlery.html</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1093,6 +1105,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-national-cereal-day.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-festival.html</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1267,6 +1285,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/cereal-day.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/whsmith.html</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1274,6 +1298,24 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/on-demand.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/mothers-day.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/gifts.html</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/last-minute.html</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
