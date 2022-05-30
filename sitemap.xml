@@ -1231,7 +1231,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://uk.deliveroo.news/news/deliveroo-morrisons-rapid-delivery-grocery.html</loc>
+    <loc>https://uk.deliveroo.news/news/deliveroo-sainsbury-s-expansion.html</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1358,6 +1358,18 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/launch.html</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/sainsbury-s.html</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/expansion.html</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1610,12 +1622,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/editions.html</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/expansion.html</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2030,12 +2036,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/egg.html</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/sainsbury-s.html</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
