@@ -91,6 +91,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-lloydspharmacy-roll-out.html</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deliveroo-appoints-cto.html</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1387,6 +1393,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/tag/lloydspharmacy.html</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/roll-out.html</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/tag/shake-shack.html</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1400,12 +1418,6 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/queens-jubilee.html</loc>
-    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://uk.deliveroo.news/tag/april-fools-day.html</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1562,6 +1574,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/love-of-huns.html</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/april-fools-day.html</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3146,6 +3164,12 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/deliveroo/page/15.html</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/deliveroo/page/16.html</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
