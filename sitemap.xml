@@ -1093,6 +1093,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://uk.deliveroo.news/news/deliveroo-results-day-meal-deals.html</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://uk.deliveroo.news/news/deloveroo-air-mask.html</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1460,6 +1466,18 @@
   </url>
   <url>
     <loc>https://uk.deliveroo.news/tag/national-burger-day.html</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/results-day.html</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uk.deliveroo.news/tag/family-meal-deals.html</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
